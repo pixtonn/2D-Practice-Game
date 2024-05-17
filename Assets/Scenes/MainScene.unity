@@ -2013,6 +2013,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc643f6a3ad47b74b893f3ebb81be27e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  LeftAction:
+    m_Name: Left
+    m_Type: 1
+    m_ExpectedControlType: Button
+    m_Id: f1e5d811-2dd9-49fa-af33-a53bbda8f729
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
 --- !u!1 &2113134619
 GameObject:
   m_ObjectHideFlags: 0
